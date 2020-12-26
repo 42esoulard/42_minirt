@@ -5,6 +5,7 @@ Generate images using the Raytracing protocol. Those computer generated images w
 
 **WHAT'S IN A .rt FILE?**
 R(esolution) xRenderSize yRenderSize
+
 A(mbientLightning) ratio(0.0-1.0) R, G, B
 C(amera) x, y, z(coordinatesOfViewPoint) 0,0,1(3dNormalizedVector[-1,1]forEach x,y,z axis) FOV(0-180)
 l(ight) x, y, z(coordinatesOfLightPoint) Brightness[0.0-1.0] R, G, B
