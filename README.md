@@ -41,4 +41,27 @@ Many thanks to Nicolas Boneel for his wonderful raytracing course : https://www.
 
 Written in december 2019/january 2020.
 
+[My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-11-27%20at%205.21.53%20PM.png)
 
+
+Screen Shot 2019-11-27 at 5.37.16 PM.png
+
+Screen Shot 2019-11-27 at 5.43.42 PM.png
+
+Screen Shot 2019-11-27 at 5.56.11 PM.png
+
+Screen Shot 2019-11-28 at 1.24.02 PM.png
+
+Screen Shot 2019-11-28 at 12.34.11 PM.png
+
+Screen Shot 2019-12-02 at 7.25.13 PM.png
+
+Screen Shot 2019-12-03 at 2.37.35 PM.png
+
+Screen Shot 2019-12-03 at 4.59.09 PM.png
+
+Screen Shot 2019-12-06 at 3.13.49 PM.png
+
+Screen Shot 2019-12-12 at 4.43.24 PM.png
+
+Screen Shot 2019-12-12 at 5.29.10 PM.png
