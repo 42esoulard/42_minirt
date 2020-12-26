@@ -1,8 +1,11 @@
 # 42_minirt
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-12-02%20at%207.25.13%20PM.png)
 
 **My own little Raytracer!**
 
 Generate images using the Raytracing protocol. Those computer generated images will each represent a scene, as seen from a specific angle and position, defined by simple geometric objects, and each with its own lighting system.
+
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-12-03%20at%204.59.09%20PM.png)
 
 **WHAT'S IN A .rt FILE?**
   - R(esolution) xRenderSize yRenderSize
@@ -36,32 +39,13 @@ Prerequisite: have minilibx installed.
 
 ./miniRT rt_file.rt [-save to save image as .bmp] 
 
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-12-12%20at%204.43.24%20PM.png)
 
 Many thanks to Nicolas Boneel for his wonderful raytracing course : https://www.youtube.com/watch?v=1HYhrx9bzP8
 
 Written in december 2019/january 2020.
 
-![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-11-27%20at%205.21.53%20PM.png)
-
-
-Screen Shot 2019-11-27 at 5.37.16 PM.png
-
-Screen Shot 2019-11-27 at 5.43.42 PM.png
-
-Screen Shot 2019-11-27 at 5.56.11 PM.png
-
-Screen Shot 2019-11-28 at 1.24.02 PM.png
-
-Screen Shot 2019-11-28 at 12.34.11 PM.png
-
-Screen Shot 2019-12-02 at 7.25.13 PM.png
-
-Screen Shot 2019-12-03 at 2.37.35 PM.png
-
-Screen Shot 2019-12-03 at 4.59.09 PM.png
-
-Screen Shot 2019-12-06 at 3.13.49 PM.png
-
-Screen Shot 2019-12-12 at 4.43.24 PM.png
-
-Screen Shot 2019-12-12 at 5.29.10 PM.png
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-11-27%20at%205.37.16%20PM.png)
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-11-27%20at%205.56.11%20PM.png)
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-12-06%20at%203.13.49%20PM.png)
+![My image](https://github.com/42esoulard/42_minirt/blob/main/screenshots/Screen%20Shot%202019-12-03%20at%202.37.35%20PM.png)
