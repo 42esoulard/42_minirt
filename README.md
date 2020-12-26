@@ -38,3 +38,5 @@ Prerequisite: have minilibx installed.
 
 
 Many thanks to Nicolas Boneel for his wonderful raytracing course : https://www.youtube.com/watch?v=1HYhrx9bzP8
+
+Written in december 2019/january 2020.
