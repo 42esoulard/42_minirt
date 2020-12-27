@@ -35,6 +35,7 @@ Generate images using the Raytracing protocol. Those computer generated images w
   - rgbs =						    red/blue/green/sepia filter
   - return = 					    load image;
 
+
 Prerequisite: have minilibx installed.
 
 ./miniRT rt_file.rt [-save to save image as .bmp] 
